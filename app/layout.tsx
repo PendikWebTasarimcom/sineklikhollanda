@@ -5,7 +5,7 @@ import { LanguageProvider } from '@/context/LanguageContext'
 export const metadata: Metadata = {
   metadataBase: new URL('https://sineklikhollanda.com'),
   title: {
-    default: 'Hızlı Sineklik Hollanda - Plise, Jaluzi, Zip Perde Çözü',
+    default: 'Sineklik Hollanda - Plise, Jaluzi ve Zip Perde',
     template: '%s | Sineklik Hollanda',
   },
   description:
