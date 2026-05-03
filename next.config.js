@@ -6,7 +6,6 @@ const nextConfig = {
   compress: true,
   poweredByHeader: false,
   reactStrictMode: true,
-  output: 'export',
 }
 
 module.exports = nextConfig
